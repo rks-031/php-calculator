@@ -5,9 +5,9 @@ This is small and basic calculator created solely using** Hypertext Processor** 
 
 1. Open the **command prompt** or **powershell** in your pc.
 2. Run the command: **php -S localhost: 4000** (Note: You can choose any **port no** of your choice).
-3. Go to **IDE** (atom or vs code) and sve the program once.
-4. Open your browser
-5. I the URL bar type **localhost:4000/dir_name/file_name.php**
+3. Go to **IDE** (atom or vs code) and save the program once.
+4. Open your browser.
+5. In the URL bar type **localhost:4000/dir_name/file_name.php**
 6. Hit enter.
 
 
