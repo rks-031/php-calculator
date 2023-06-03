@@ -1,5 +1,5 @@
 # php-calculator
-This is small and basic calculator created solely using** Hypertext Processor** (PHP)
+This is small and basic calculator created solely using * Hypertext Processor * (PHP)
 
 **To run this program**
 
